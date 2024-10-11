@@ -10,3 +10,22 @@ html, body {
 	height: 100%;
 	width: 100%;
   }
+  .btn-canal {
+    background-color:#0000ff78;
+    color: white;
+    margin: 40px;
+    padding: 40px;
+    display: block;
+    text-decoration: none;
+    width: 25%;
+    font-family: sans-serif;
+    text-align: center;
+}
+.btn-canal img {
+	width: 100%;
+}
+
+.btn-canal button  {
+    background-color: unset;
+    border: unset;
+}
